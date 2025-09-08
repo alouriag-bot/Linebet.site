@@ -7,6 +7,10 @@
 img {
     max-width: 100%;
     height: auto;
+}
+.article-section img {
+    max-width: 100%;
+    height: auto;
     padding-top: 20px;
 }
 body {
