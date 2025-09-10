@@ -74,7 +74,6 @@ header {
     display: block;
     justify-content: space-between;
     align-items: center;
-    padding: 12px 22px;
     background-color: #014916;
     flex-wrap: wrap;
     gap: 10px;
