@@ -21,11 +21,6 @@ header .logo-container span {
     color: #fff; /* vert clair Linebet si tu veux le mettre en contraste */
 }
 
-/* Desktop menu links */
-#desktop-nav a {
-    color: #fff; /* vert clair Linebet pour les liens */
-}
-
 #desktop-nav a:hover {
     color: #10b981; /* accent vert pour hover */
 }
@@ -92,10 +87,10 @@ nav {
 }
 nav a {
     white-space: nowrap;
-    color: #574b4b;
+    color: #fff;
     margin-left: 15px;
     text-decoration: none;
-    font-weight: 500;
+    font-weight: 600;
 }
 .logo-container {
     display: flex;
