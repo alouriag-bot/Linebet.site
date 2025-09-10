@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',()=>{const b=document.getElementById('burger'),m=document.getElementById('mobile-menu');b&&b.addEventListener('click',()=>{m.classList.toggle('hidden');document.getElementById('burger-open').classList.toggle('hidden');document.getElementById('burger-close').classList.toggle('hidden');});});
