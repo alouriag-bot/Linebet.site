@@ -223,9 +223,9 @@ nav a {
     margin-top: 20px;
     font-size: 18px;
 }
-.article-section p b {
+.sub-title {
   color: #007f3e;
-  margin-top: 20px !important;
+  margin-top: 20px;
   font-size: 18px;
 }
 .country-paragraph {
