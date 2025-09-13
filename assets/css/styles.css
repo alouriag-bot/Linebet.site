@@ -225,9 +225,9 @@ nav a {
 }
 p b {
   display: block;
-  font-size: 1.2em;
   color: #007f3e;
-  margin: 10px 0;
+  margin-top: 20px;
+  font-size: 18px;
 }
 .country-paragraph {
     margin-bottom: 20px;
