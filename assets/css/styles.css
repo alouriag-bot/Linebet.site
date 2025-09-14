@@ -207,6 +207,10 @@ nav a {
 .register-button:hover {
     background-color: #064420;
 }
+.article-section a {
+  color: #007f3e;
+  text-decoration: inherit;
+}
 .article-section {
     max-width: 1000px;
     margin: 40px auto;
