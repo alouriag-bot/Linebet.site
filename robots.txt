@@ -1,12 +1,4 @@
 User-agent: *
-Allow: /index.html
-Allow: /register.html
-Allow: /bonus.html
-Allow: /app.html
-Allow: /features.html
-Allow: /reviews.html
-Allow: /partner.html
-Allow: /faq.html
 
 # Disallow admin or private sections
 Disallow: /terms.html
